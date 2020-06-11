@@ -21,6 +21,11 @@ public class day1 {
 		System.out.println("hello");//automation
 		System.out.println("I am doing changes 1");
 		System.out.println("I am doing changes 2");
+		System.out.println("I am doing changes 2");
+		System.out.println("I am doing changes 2");
+		System.out.println("I am doing changes 2");
+		System.out.println("I am doing changes 2");
+		
 		Assert.assertTrue(false);
 	}
 	@AfterSuite
